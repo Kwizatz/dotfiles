@@ -1,0 +1,34 @@
+# GAOMON
+# S56K
+#
+# This tablet masquerades as a Huion (vendor 256c) tablet despite not being the
+# same manufacturer.
+#
+# The pen is visually identical to that from the Huion 420, so the Styli
+# parameter has been copied from it.
+#
+# The exposed device names are the same as in the Huion 420, with "Huion"
+# replaced by "Tablet Monitor".
+#
+
+[Device]
+Name=Huion Kamvas 12 Pro
+ModelName=
+DeviceMatch=usb:256c:006e:Tablet Monitor Pen;usb:256c:006e:Tablet Monitor Pad;
+Class=Bamboo
+Width=12
+Height=6
+IntegratedIn=Display
+Layout=huion-kamvas-12-pro.svg
+Styli=0xffffd;
+
+[Features]
+Stylus=true
+Reversible=false
+Buttons=6
+NumStrips=1
+
+[Buttons]
+Left=A;B;F;C;D;E
+Touchstrip=F
+StripsNumModes=4

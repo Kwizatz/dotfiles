@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   style="color:#000000;stroke:#7f7f7f;fill:none;stroke-width:.25;font-size:8"
+   id="huion-kamvas-pro-12"
+   width="355"
+   height="250">
+  <title
+     id="title">Huion Kamvas 12 Pro</title>
+  <g>
+    <circle
+       r="7.5"
+       cy="43"
+       cx="29"
+       class="A ModeSwitch Button"
+       id="ButtonA" />
+    <path
+       d="m 51,43 h 4"
+       class="A ModeSwitch Leader"
+       id="LeaderA" />
+    <text
+       style="text-anchor:start"
+       y="43"
+       x="57"
+       class="A ModeSwitch Label"
+       id="LabelA">A</text>
+  </g>
+  <g>
+    <circle
+       id="ButtonB"
+       class="B ModeSwitch Button"
+       cx="29"
+       cy="62"
+       r="7.5" />
+    <path
+       id="LeaderB"
+       class="B ModeSwitch Leader"
+       d="m 51,62 h 4" />
+    <text
+       id="LabelB"
+       class="B ModeSwitch Label"
+       x="57"
+       y="62"
+       style="text-anchor:start">B</text>
+  </g>
+  <g>
+    <circle
+       id="ButtonC"
+       class="C ModeSwitch Button"
+       cx="29"
+       cy="168"
+       r="7.5" />
+    <path
+       id="LeaderC"
+       class="C ModeSwitch Leader"
+       d="m 51,168 h 4" />
+    <text
+       id="LabelC"
+       class="C ModeSwitch Label"
+       x="57"
+       y="168"
+       style="text-anchor:start">C</text>
+  </g>
+  <g>
+    <circle
+       id="ButtonD"
+       class="D ModeSwitch Button"
+       cx="29"
+       cy="187"
+       r="7.5" />
+    <path
+       id="LeaderD"
+       class="D ModeSwitch Leader"
+       d="m 51,187 h 4" />
+    <text
+       id="LabelD"
+       class="D ModeSwitch Label"
+       x="57"
+       y="187"
+       style="text-anchor:start">D</text>
+  </g>
+  <g>
+    <circle
+       id="ButtonE"
+       class="E ModeSwitch Button"
+       cx="29"
+       cy="206"
+       r="9.5" />
+    <path
+       id="LeaderE"
+       class="E ModeSwitch Leader"
+       d="m 51,206 h 4" />
+    <text
+       id="LabelE"
+       class="E ModeSwitch Label"
+       x="57"
+       y="206"
+       style="text-anchor:start">E</text>
+  </g>
+  <g>
+    <rect
+       height="60.028542"
+       width="12.10137"
+       ry="5.2955403"
+       rx="6.0506849"
+       y="83.661217"
+       x="23.415197"
+       class="Strip TouchStrip"
+       id="Strip" />
+    <path
+       d="M 29.300766,81.990499 V 75.987644 H 56.35559"
+       class="StripUp Strip Leader"
+       id="LeaderStripUp" />
+    <text
+       y="77.501076"
+       x="58.780113"
+       class="StripUp Strip Label"
+       id="LabelStripUp">Up</text>
+    <path
+       d="m 29.300766,146.02094 v 8.00381 H 56.35559"
+       class="StripDown Strip Leader"
+       id="LeaderStripDown" />
+    <text
+       y="155.04289"
+       x="58.780113"
+       class="StripDown Strip Label"
+       id="LabelStripDown">Down</text>
+  </g>
+</svg>
