@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   id="huion-kamvas-20-pro"
+   width="380"
+   height="250"
+   style="color:#000000;fill:none;font-size:8;stroke:#7f7f7f;stroke-width:.25"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg">
+  <title
+     id="title">Huion Kamvas 20 Pro</title>
+    <rect
+       id="ButtonA"
+       class="A ModeSwitch Button"
+       x="13.0"
+       y="14.0"
+       width="24.0"
+       height="12.0"
+       ry="0.0" />
+    <rect
+       id="ButtonB"
+       class="B ModeSwitch Button"
+       x="13.0"
+       y="26.0"
+       width="24.0"
+       height="12.0" />
+    <rect
+       id="ButtonC"
+       class="C ModeSwitch Button"
+       x="13.0"
+       y="38.0"
+       width="24.0"
+       height="12.0" />
+    <rect
+       id="ButtonD"
+       class="D ModeSwitch Button"
+       x="13.0"
+       y="50.0"
+       width="24.0"
+       height="12.0" />
+    <path
+       id="LeaderA"
+       class="A ModeSwitch Leader"
+       d="m 39.5 22.5 h 4.0" />
+    <path
+       id="LeaderB"
+       class="B ModeSwitch Leader"
+       d="m 39.5 35.0 h 4.0" />
+    <path
+       id="LeaderC"
+       class="C ModeSwitch Leader"
+       d="m 39.5 48.0 h 4.0" />
+    <path
+       id="LeaderD"
+       class="D ModeSwitch Leader"
+       d="m 39.5 59.0 h 4.0" />
+    <text
+       id="LabelA"
+       class="A ModeSwitch Label"
+       x="45.5"
+       y="22.5">A</text>
+    <text
+       id="LabelB"
+       class="B ModeSwitch Label"
+       x="45.5"
+       y="35.0">B</text>
+    <text
+       id="LabelC"
+       class="C ModeSwitch Label"
+       x="45.5"
+       y="48.0">C</text>
+    <text
+       id="LabelD"
+       class="D ModeSwitch Label"
+       x="45.5"
+       y="59.0">D</text>
+    <rect
+       id="ButtonE"
+       class="E ModeSwitch Button"
+       x="12.0"
+       y="188.5"
+       width="24.0"
+       height="12.0" />
+    <rect
+       id="ButtonF"
+       class="F ModeSwitch Button"
+       x="12.0"
+       y="200.5"
+       width="24.0"
+       height="12.0" />
+    <rect
+       id="ButtonG"
+       class="G ModeSwitch Button"
+       x="12.0"
+       y="212.5"
+       width="24.0"
+       height="12.0" />
+    <rect
+       id="ButtonH"
+       class="H ModeSwitch Button"
+       x="12.0"
+       y="224.5"
+       width="24.0"
+       height="12.0" />
+    <path
+       id="LeaderE"
+       class="E ModeSwitch Leader"
+       d="m 39.5 196.5 h 4.0" />
+    <path
+       id="LeaderF"
+       class="F ModeSwitch Leader"
+       d="m 39.5 210.0 h 4.0" />
+    <path
+       id="LeaderG"
+       class="G ModeSwitch Leader"
+       d="m 39.5 221.5 h 4.0" />
+    <path
+       id="LeaderH"
+       class="H ModeSwitch Leader"
+       d="m 39.5 234.0 h 4.0" />
+    <text
+       id="LabelE"
+       class="E ModeSwitch Label"
+       x="45.5"
+       y="196.5"
+       style="text-anchor:start;">E</text>
+    <text
+       id="LabelF"
+       class="F ModeSwitch Label"
+       x="45.5"
+       y="210.0"
+       style="text-anchor:start;">F</text>
+    <text
+       id="LabelG"
+       class="G ModeSwitch Label"
+       x="45.5"
+       y="221.5"
+       style="text-anchor:start;">G</text>
+    <text
+       id="LabelH"
+       class="H ModeSwitch Label"
+       x="45.5"
+       y="234.0"
+       style="text-anchor:start;">H</text>
+</svg>
