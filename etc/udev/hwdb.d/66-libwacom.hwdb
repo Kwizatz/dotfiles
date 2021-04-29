@@ -1,0 +1,7 @@
+libwacom:name:Tablet Monitor*:input:*
+ ID_INPUT=1
+ ID_INPUT_TABLET=1
+ ID_INPUT_JOYSTICK=0
+
+libwacom:name:Tablet Monitor Pad:input:*
+ ID_INPUT_TABLET_PAD=1
