@@ -10,7 +10,6 @@
    xmlns="http://www.w3.org/2000/svg">
   <title
      id="title">Huion Kamvas 12 Pro</title>
-  <g>
     <circle
        id="ButtonA"
        class="A ModeSwitch Button"
@@ -27,8 +26,6 @@
        x="57.0"
        y="43.0"
        style="text-anchor:start;">A</text>
-  </g>
-  <g>
     <circle
        id="ButtonB"
        class="B ModeSwitch Button"
@@ -45,8 +42,6 @@
        x="57.0"
        y="62.0"
        style="text-anchor:start;">B</text>
-  </g>
-  <g>
     <circle
        id="ButtonC"
        class="C ModeSwitch Button"
@@ -63,8 +58,6 @@
        x="57.0"
        y="168.0"
        style="text-anchor:start;">C</text>
-  </g>
-  <g>
     <circle
        id="ButtonD"
        class="D ModeSwitch Button"
@@ -81,8 +74,6 @@
        x="57.0"
        y="187.0"
        style="text-anchor:start;">D</text>
-  </g>
-  <g>
     <circle
        id="ButtonE"
        class="E ModeSwitch Button"
@@ -99,34 +90,4 @@
        x="57.0"
        y="206.0"
        style="text-anchor:start;">E</text>
-  </g>
-  <g>
-    <rect
-       id="Strip"
-       class="Strip TouchStrip"
-       x="23.5"
-       y="83.5"
-       width="12.0"
-       height="60.0"
-       rx="6.0"
-       ry="5.5" />
-    <path
-       id="LeaderStripUp"
-       class="StripUp Strip Leader"
-       d="M 29.5 82.0 V 76.0 H 56.5" />
-    <path
-       id="LeaderStripDown"
-       class="StripDown Strip Leader"
-       d="m 29.5 146.0 v 8.0 H 56.5" />
-    <text
-       id="LabelStripUp"
-       class="StripUp Strip Label"
-       x="59.0"
-       y="77.5">Up</text>
-    <text
-       id="LabelStripDown"
-       class="StripDown Strip Label"
-       x="59.0"
-       y="155.0">Down</text>
-  </g>
 </svg>
