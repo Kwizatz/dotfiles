@@ -1,23 +1,22 @@
 # HUION
-# Kamvas 20 Pro
-#
-
+# Kamvas Pro 20
+# GT-192
 [Device]
-Name=Huion Kamvas 20 Pro
+Name=Huion Kamvas Pro 20
 ModelName=GT-192
-DeviceMatch=usb:256c:006e:Tablet Monitor Pen;usb:256c:006e:Tablet Monitor Pad;
 Class=Cintiq
+DeviceMatch=usb:256c:006e:Tablet Monitor Pen;usb:256c:006e:Tablet Monitor Pad;
 Width=20
 Height=10
-IntegratedIn=Display
-Layout=huion-kamvas-20-pro.svg
+Layout=kamvas-pro-20.svg
 Styli=0xffffd;
+IntegratedIn=Display
 
 [Features]
 Stylus=true
 Reversible=false
-Ring=false
 Touch=false
+Ring=false
 Buttons=8
 
 [Buttons]
