@@ -1,23 +1,22 @@
 # HUION
-# Kamvas 12 Pro
-#
-
+# Kamvas Pro 12
+# GT-116
 [Device]
-Name=Huion Kamvas 12 Pro
+Name=Huion Kamvas Pro 12
 ModelName=GT-116
-DeviceMatch=usb:256c:006e:Tablet Monitor Pen;usb:256c:006e:Tablet Monitor Pad;
 Class=Cintiq
+DeviceMatch=usb:256c:006e:Tablet Monitor Pen;usb:256c:006e:Tablet Monitor Pad;
 Width=12
 Height=6
-IntegratedIn=Display
-Layout=huion-kamvas-12-pro.svg
+Layout=kamvas-pro-12.svg
 Styli=0xffffd;
+IntegratedIn=Display
 
 [Features]
 Stylus=true
 Reversible=false
-Ring=false
 Touch=false
+Ring=false
 Buttons=5
 
 [Buttons]
