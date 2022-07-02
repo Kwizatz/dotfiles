@@ -8,142 +8,38 @@
    style="color:#000000;fill:none;font-size:8;stroke:#7f7f7f;stroke-width:.25"
    version="1.1"
    xmlns="http://www.w3.org/2000/svg">
-  <title
-     id="title">Huion Kamvas Pro 20</title>
-  <rect
-     id="ButtonA"
-     class="A Button"
-     x="26"
-     y="34"
-     width="16"
-     height="10"
-     rx="2" />
-  <path
-     id="LeaderA"
-     class="A Leader"
-     d="m46 39h4" />
-  <text
-     id="LabelA"
-     class="A Label"
-     x="52"
-     y="39">A</text>
-  <rect
-     id="ButtonB"
-     class="B Button"
-     x="26"
-     y="52"
-     width="16"
-     height="10"
-     rx="2" />
-  <path
-     id="LeaderB"
-     class="B Leader"
-     d="m46 57h4" />
-  <text
-     id="LabelB"
-     class="B Label"
-     x="52"
-     y="57">B</text>
-  <rect
-     id="ButtonC"
-     class="C Button"
-     x="26"
-     y="70"
-     width="16"
-     height="10"
-     rx="2" />
-  <path
-     id="LeaderC"
-     class="C Leader"
-     d="m46 75h4" />
-  <text
-     id="LabelC"
-     class="C Label"
-     x="52"
-     y="75">C</text>
-  <rect
-     id="ButtonD"
-     class="D Button"
-     x="26"
-     y="88"
-     width="16"
-     height="10"
-     rx="2" />
-  <path
-     id="LeaderD"
-     class="D Leader"
-     d="m46 93h4" />
-  <text
-     id="LabelD"
-     class="D Label"
-     x="52"
-     y="93">D</text>
-  <rect
-     id="ButtonE"
-     class="E Button"
-     x="26"
-     y="142"
-     width="16"
-     height="10"
-     rx="2" />
-  <path
-     id="LeaderE"
-     class="E Leader"
-     d="m46 147h4" />
-  <text
-     id="LabelE"
-     class="E Label"
-     x="52"
-     y="147">E</text>
-  <rect
-     id="ButtonF"
-     class="F Button"
-     x="26"
-     y="160"
-     width="16"
-     height="10"
-     rx="2" />
-  <path
-     id="LeaderF"
-     class="F Leader"
-     d="m46 165h4" />
-  <text
-     id="LabelF"
-     class="F Label"
-     x="52"
-     y="165">F</text>
-  <rect
-     id="ButtonG"
-     class="G Button"
-     x="26"
-     y="178"
-     width="16"
-     height="10"
-     rx="2" />
-  <path
-     id="LeaderG"
-     class="G Leader"
-     d="m46 183h4" />
-  <text
-     id="LabelG"
-     class="G Label"
-     x="52"
-     y="183">G</text>
-  <rect
-     id="ButtonH"
-     class="H Button"
-     x="26"
-     y="196"
-     width="16"
-     height="10"
-     rx="2" />
-  <path
-     id="LeaderH"
-     class="H Leader"
-     d="m46 201h4" />
-  <text
-     id="LabelH"
-     class="H Label"
-     x="52"
-     y="201">H</text>
+  <title id="title">Huion Kamvas Pro 20</title>
+
+  <rect id="ButtonA" class="A Button" x="26" y="34" width="16" height="10" rx="2" />
+  <path id="LeaderA" class="A Leader" d="m46 39h4" />
+  <text id="LabelA"  class="A Label"  x="52" y="39">A</text>
+
+  <rect id="ButtonB" class="B Button" x="26" y="52" width="16" height="10" rx="2" />
+  <path id="LeaderB" class="B Leader" d="m46 57h4" />
+  <text id="LabelB"  class="B Label"  x="52" y="57">B</text>
+
+  <rect id="ButtonC" class="C Button" x="26" y="70" width="16" height="10" rx="2" />
+  <path id="LeaderC" class="C Leader" d="m46 75h4" />
+  <text id="LabelC"  class="C Label"  x="52" y="75">C</text>
+
+  <rect id="ButtonD" class="D Button" x="26" y="88" width="16" height="10" rx="2" />
+  <path id="LeaderD" class="D Leader" d="m46 93h4" />
+  <text id="LabelD"  class="D Label"  x="52" y="93">D</text>
+
+  <rect id="ButtonE" class="E Button" x="26" y="142" width="16" height="10" rx="2" />
+  <path id="LeaderE" class="E Leader" d="m46 147h4" />
+  <text id="LabelE"  class="E Label"  x="52" y="147">E</text>
+
+  <rect id="ButtonF" class="F Button" x="26" y="160" width="16" height="10" rx="2" />
+  <path id="LeaderF" class="F Leader" d="m46 165h4" />
+  <text id="LabelF"  class="F Label"  x="52" y="165">F</text>
+
+  <rect id="ButtonG" class="G Button" x="26" y="178" width="16" height="10" rx="2" />
+  <path id="LeaderG" class="G Leader" d="m46 183h4" />
+  <text id="LabelG"  class="G Label"  x="52" y="183">G</text>
+
+  <rect id="ButtonH" class="H Button" x="26" y="196" width="16" height="10" rx="2" />
+  <path id="LeaderH" class="H Leader" d="m46 201h4" />
+  <text id="LabelH"  class="H Label"  x="52" y="201">H</text>
 </svg>
+
